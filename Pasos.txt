@@ -18,5 +18,3 @@ kubectl apply -f frontend.yaml
 kubectl apply -f frontend-service.yaml
 
 kubectl get all -l app=guestbook
-
-https://flip.com/s/eiW49NDC3_VR
